@@ -1,12 +1,10 @@
 komik-interaktif/
 │
 ├─ index.html
-├─ css/
-│   └─ style.css
-├─ js/
-│   └─ script.js
-├─ assets/
-│   ├─ images/
-│   └─ audio/
-└─ story/
-    └─ story.json
+├─ style.css
+├─ script.js
+├─ story.json
+└─ images/
+   ├─ panel1.jpg
+   ├─ panel2a.jpg
+   └─ panel2b.jpg
